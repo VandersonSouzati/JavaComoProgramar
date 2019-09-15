@@ -1,3 +1,4 @@
-Um arquivo qualquer para o curso de Git e GitHub 
+﻿Um arquivo qualquer para o curso de Git e GitHub 
 Inserindo uma linha, após o arquivo ser commitado(git commit -m "Mensagem")
 Inserindo uma segunda linha direto no Github
+Vou inserir mais uma linha no arquivo, mas usando o Git
