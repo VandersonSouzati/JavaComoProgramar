@@ -1,0 +1,32 @@
+------------------------------------
+            Invoice 
+------------------------------------
+-numero: String
+-descricao: String 
+-quantidade: int
+-preco: double
+------------------------------------
+<<constructor>>invoice()
++getNumero(): String
++setNumero(numero: String)
++getDescricao(): String
++setDescricao(descricao: String)
++getQuantidade(): int
++setQuantidade(quantidade: int)
++getPreco(): double
++setPreco(preco:double)
++getInvoiceAmount(): double
+------------------------------------
+
+
+
+
+
+------------------------------------------
+            InvoiceTeste
+------------------------------------------
++invoice: Invoice
+------------------------------------------
++incializaValor()
++mostraSubTotal(): double
+------------------------------------------
